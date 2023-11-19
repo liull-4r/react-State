@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+button {
+  background-color: green;
+  color: white;
+  padding: 25px;
+  font-size: 30px;
+  border: none;
+  margin-top: 50px;
+  margin-right: 20px;
+  
+}
+div {
+  text-align: center;
+}
+
+.allthree {
+  background-color: rgb(151, 144, 144);
+  padding: 100px;
+}
